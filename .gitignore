@@ -6,7 +6,7 @@ package-lock.json
 .idea
 
 # Language Related
-dist
+
 # elm-package generated files
 elm-stuff
 # elm-repl generated files
