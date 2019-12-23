@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "elm make src/Main.elm --output dist/index.html"
+  },
+  "devDependencies": {
+    "elm-hot": "^1.1.4",
+    "node-elm-compiler": "^5.0.4"
+  }
+}
